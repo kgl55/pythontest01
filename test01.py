@@ -11,4 +11,4 @@ name    = "runoob"     # 字符串
 
 print (counter)
 print (miles)
-print (name)
+print (n1ame)
